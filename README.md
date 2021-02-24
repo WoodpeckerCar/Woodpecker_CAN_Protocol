@@ -4,4 +4,4 @@ CAN protocol dbf database and Busmaster configuration and demo run log file.
 
 Get Busmaster here: https://rbei-etas.github.io/busmaster/ 
 
-![Screenshot](/images/screen.jpg)
+![Screenshot](/images/screen.JPG)
